@@ -29,7 +29,7 @@ In Normalized Difference Vegetation Index NIR band and Red band are used where v
 
 In the given images, upper one show the NDVI output of the 198 image and lower one shows 2020.
 
-! [NDVI](NDVI.png)
+![NDVI](NDVI.png)
 
 In the color images, Vegetaion-Area images show the areas vegetated with green color while Non-Vegetation Area images show the non-vegetated areas with blue.
 It can be easily seen that there is a decrease in vegetation cover from 1985 to 2020 by looking at the left upper corners of the images.
@@ -40,7 +40,7 @@ In Normalized Difference Water Index, NIR band and Green band are used for the d
 
 In the given images, upper one show the NDWI output of the 198 image and lower one shows 2020.
 
-! [NDWI](NDWI.png)
+![NDWI](NDWI.png)
 
 It can be seen that the water content is decreased 2020 by looking especially at Burdur Lake which lies on the left on the image. It can be said that its upper sides of the Burdur Lake have dried up over the years.
 
