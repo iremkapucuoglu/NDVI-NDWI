@@ -17,5 +17,5 @@ https://earthexplorer.usgs.gov/scene/metadata/full/5e83d0a05ee25348/LT5178034198
 https://earthexplorer.usgs.gov/scene/metadata/full/5e81f14f59432a27/LC81780342020281LGN00/
 
 RGB color images are given above as the left one is 1985 and the right one is 2020 image.
-- ! [RGB](RGB.png)
+- ![RGB](RGB.png)
 
