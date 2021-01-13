@@ -19,3 +19,6 @@ https://earthexplorer.usgs.gov/scene/metadata/full/5e81f14f59432a27/LC8178034202
 RGB color images are given above as the left one is 1985 and the right one is 2020 image.
  ![RGB](RGB.png)
 
+Since the NDVI and NDWI calculations are done with Green, Red and NIR bands,
+- Band1, band2, band3, band4 (blue, green, red, NIR) extracted from Landsat5 imagery
+- Band2, band3, band4, band5 (blue, green, red, NIR) extracted from Landsat8 imagery
