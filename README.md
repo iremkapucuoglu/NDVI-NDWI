@@ -5,9 +5,9 @@ Since Landsat5 data starts in 1984 and ends in 2012, it is selected as the senso
 
 
 ## Libraries Used in Jupyter Notebook
--matplotlib
--numpy
--skimage
+- matplotlib
+- numpy
+- skimage
 
 ## Data Collection and Band Selection
 - For the year 1985, input bands are downloaded from the given usgs link above. The metadata of the test image is:
